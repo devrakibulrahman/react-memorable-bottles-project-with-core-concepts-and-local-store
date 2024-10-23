@@ -1,0 +1,13 @@
+.cart-box {
+  border: 1px solid yellow;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.cart-box img {
+  width: 80px;
+}

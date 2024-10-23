@@ -1,0 +1,11 @@
+.cart-container {
+  border: 1px solid silver;
+  padding: 1rem;
+  height: 244px;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 1rem;
+  overflow-y: scroll;
+}
